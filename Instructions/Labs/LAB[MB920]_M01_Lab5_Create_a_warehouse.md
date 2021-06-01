@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'ラボ 5: 倉庫を作成する'
     module: 'モジュール 1: Microsoft Dynamics 365 Supply Chain Management の基礎を学ぶ'

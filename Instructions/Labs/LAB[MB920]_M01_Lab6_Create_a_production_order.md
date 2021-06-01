@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'ラボ 6: 製造オーダーの作成'
     module: 'モジュール 1: Microsoft Dynamics 365 Supply Chain Management の基礎を学ぶ'

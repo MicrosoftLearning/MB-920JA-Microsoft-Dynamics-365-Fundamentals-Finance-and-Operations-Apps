@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'ラボ 3: Dynamics 365 Finance capstone ラボ'
     module: 'モジュール 2: Microsoft Dynamics 365 Finance の基礎を学ぶ'

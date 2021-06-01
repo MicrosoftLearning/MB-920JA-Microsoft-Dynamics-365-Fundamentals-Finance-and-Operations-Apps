@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: 'デモ 1: Project Operations の価格設定'
     module: 'モジュール 5: Microsoft Dynamics 365 Project Operations の基礎を学ぶ'

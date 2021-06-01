@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: 'デモ 1: 学習コースの割り当て'
     module: 'モジュール 4: Microsoft Dynamics 365 Human Resource の基礎を学ぶ'

@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'ラボ 1: 割引製品を作成する'
     module: 'モジュール 3: Microsoft Dynamics 365 Commerce の基礎を学ぶ'

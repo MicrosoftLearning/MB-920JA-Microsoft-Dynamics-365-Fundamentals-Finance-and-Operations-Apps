@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'ラボ 2: 製品の品揃えを作成する'
     module: 'モジュール 3: Microsoft Dynamics 365 Commerce の基礎を学ぶ'

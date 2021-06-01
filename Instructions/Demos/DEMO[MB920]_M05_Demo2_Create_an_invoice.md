@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: 'デモ 2:: 請求書の作成'
     module: 'モジュール 5: Microsoft Dynamics 365 Project Operations の基礎を学ぶ'

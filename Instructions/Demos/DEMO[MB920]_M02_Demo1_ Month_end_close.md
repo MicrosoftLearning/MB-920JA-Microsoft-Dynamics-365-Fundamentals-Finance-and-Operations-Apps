@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: 'デモ 1: 月末決算'
     module: 'モジュール 2: Microsoft Dynamics 365 Finance の基礎を学ぶ'

@@ -1,4 +1,4 @@
-﻿---
+---
 demo:
     title: 'デモ 3:: プロジェクト原価についてさらに確認する'
     module: 'モジュール 5: Microsoft Dynamics 365 Project Operations の基礎を学ぶ'

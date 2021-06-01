@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'ラボ 2: 支払仕訳帳の作成'
     module: 'モジュール 2: Microsoft Dynamics 365 Finance の基礎を学ぶ'

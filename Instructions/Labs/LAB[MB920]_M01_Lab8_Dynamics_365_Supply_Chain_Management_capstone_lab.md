@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'ラボ 8: Dynamics 365 Supply Chain Management capstone ラボ'
     module: 'モジュール 1: Microsoft Dynamics 365 Supply Chain Management の基礎を学ぶ'

@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'ラボ 2: ワークスペースとフィルター処理を詳しく知る'
     module: 'モジュール 1: Microsoft Dynamics 365 Supply Chain Management の基礎を学ぶ'

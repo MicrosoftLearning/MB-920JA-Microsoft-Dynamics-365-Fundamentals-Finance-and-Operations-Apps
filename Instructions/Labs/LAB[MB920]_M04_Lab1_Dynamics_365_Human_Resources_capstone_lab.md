@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'ラボ 1: Dynamics 365 Human Resources capstone ラボ'
     module: 'モジュール 4: Microsoft Dynamics 365 Human Resource の基礎を学ぶ'

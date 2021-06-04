@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: 'ラボ 4: 発注書を作成する'
     module: 'モジュール 1: Microsoft Dynamics 365 Supply Chain Management の基礎を学ぶ'
@@ -6,7 +6,7 @@ lab:
 
 # モジュール 1: Microsoft Dynamics 365 Supply Chain Management の基礎を学ぶ
 
-## ラボ 4 - 発注書の作成
+## ラボ 4 - 発注書を作成する
 
 ## 目的
 

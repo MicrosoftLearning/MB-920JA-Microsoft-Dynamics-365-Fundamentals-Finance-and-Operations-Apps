@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: 'ラボ 3: 製品内容をさまざまなサイズと色で作成する'
     module: 'モジュール 1: Microsoft Dynamics 365 Supply Chain Management の基礎を学ぶ'
@@ -6,7 +6,7 @@ lab:
 
 # モジュール 1: Microsoft Dynamics 365 Supply Chain Management の基礎を学ぶ
 
-## 製品内容をさまざまなサイズと色で作成する
+## ラボ 3 - 製品内容をさまざまなサイズと色で作成する
 
 ## 目的
 

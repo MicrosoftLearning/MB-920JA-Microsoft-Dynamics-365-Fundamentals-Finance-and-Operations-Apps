@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'ラボ 3: Dynamics 365 Commerce capstone ラボ'
     module: 'モジュール 3: Microsoft Dynamics 365 Commerce の基礎を学ぶ'

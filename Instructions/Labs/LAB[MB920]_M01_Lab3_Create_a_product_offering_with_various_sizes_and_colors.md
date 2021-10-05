@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: 'ラボ 3: 製品内容をさまざまなサイズと色で作成する'
     module: 'モジュール 1: Microsoft Dynamics 365 Supply Chain Management の基礎を学ぶ'
@@ -6,7 +6,7 @@ lab:
 
 # モジュール 1: Microsoft Dynamics 365 Supply Chain Management の基礎を学ぶ
 
-## ラボ 3 - 製品内容をさまざまなサイズと色で作成する
+## ラボ 3 - 新製品を作成する
 
 ## 目的
 
@@ -46,7 +46,7 @@ Contoso Entertainment System USA (USMF) で、キャビネットの構成を変�
 
 1. **「測定単位」** で、次の値が設定されていることを確認します。
 
-    | **設定**| **値:**|
+    | **設定**| **値**|
     | :--- | :--- |
     | 在庫単位| それぞれ|
     | 購買単位| それぞれ|
